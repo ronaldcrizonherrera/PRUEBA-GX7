@@ -1,0 +1,119 @@
+[23-Nov-2021 11:26:02 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'webimsol_rch'@'localhost' to database 'webimsol_konecta' in /home/webimsol/public_html/codigo2000.com/demos2000/web_projects/konecta/files/class.php:37
+Stack trace:
+#0 /home/webimsol/public_html/codigo2000.com/demos2000/web_projects/konecta/files/class.php(37): PDO->__construct('mysql:host=loca...', 'webimsol_rch', 'Ronald104742463...')
+#1 /home/webimsol/public_html/codigo2000.com/demos2000/web_projects/konecta/files/class_productos.php(57): Conectar->get_conexion()
+#2 /home/webimsol/public_html/codigo2000.com/demos2000/web_projects/konecta/phpAjax/buscar.ajax.vw.php(10): PRODUCTOS->getProductos()
+#3 {main}
+  thrown in /home/webimsol/public_html/codigo2000.com/demos2000/web_projects/konecta/files/class.php on line 37
+[23-Nov-2021 11:26:06 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'webimsol_rch'@'localhost' to database 'webimsol_konecta' in /home/webimsol/public_html/codigo2000.com/demos2000/web_projects/konecta/files/class.php:37
+Stack trace:
+#0 /home/webimsol/public_html/codigo2000.com/demos2000/web_projects/konecta/files/class.php(37): PDO->__construct('mysql:host=loca...', 'webimsol_rch', 'Ronald104742463...')
+#1 /home/webimsol/public_html/codigo2000.com/demos2000/web_projects/konecta/files/class_productos.php(57): Conectar->get_conexion()
+#2 /home/webimsol/public_html/codigo2000.com/demos2000/web_projects/konecta/phpAjax/vender.ajax.vw.php(10): PRODUCTOS->getProductos()
+#3 {main}
+  thrown in /home/webimsol/public_html/codigo2000.com/demos2000/web_projects/konecta/files/class.php on line 37
+[23-Nov-2021 12:07:29 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'webimsol_rch'@'localhost' to database 'webimsol_konecta' in /home/webimsol/public_html/codigo2000.com/demos2000/web_projects/konecta/files/class.php:37
+Stack trace:
+#0 /home/webimsol/public_html/codigo2000.com/demos2000/web_projects/konecta/files/class.php(37): PDO->__construct('mysql:host=loca...', 'webimsol_rch', 'Ronald104742463...')
+#1 /home/webimsol/public_html/codigo2000.com/demos2000/web_projects/konecta/files/class_productos.php(74): Conectar->get_conexion()
+#2 /home/webimsol/public_html/codigo2000.com/demos2000/web_projects/konecta/phpAjax/vender.ajax.vw.php(8): PRODUCTOS->getProductosFiltro('f')
+#3 {main}
+  thrown in /home/webimsol/public_html/codigo2000.com/demos2000/web_projects/konecta/files/class.php on line 37
+[23-Nov-2021 15:07:54 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'webimsol_rch'@'localhost' to database 'webimsol_konecta' in /home/webimsol/public_html/codigo2000.com/demos2000/web_projects/konecta/files/class.php:37
+Stack trace:
+#0 /home/webimsol/public_html/codigo2000.com/demos2000/web_projects/konecta/files/class.php(37): PDO->__construct('mysql:host=loca...', 'webimsol_rch', 'Ronald104742463...')
+#1 /home/webimsol/public_html/codigo2000.com/demos2000/web_projects/konecta/files/class_productos.php(57): Conectar->get_conexion()
+#2 /home/webimsol/public_html/codigo2000.com/demos2000/web_projects/konecta/phpAjax/vender.ajax.vw.php(10): PRODUCTOS->getProductos()
+#3 {main}
+  thrown in /home/webimsol/public_html/codigo2000.com/demos2000/web_projects/konecta/files/class.php on line 37
+[23-Nov-2021 15:07:55 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'webimsol_rch'@'localhost' to database 'webimsol_konecta' in /home/webimsol/public_html/codigo2000.com/demos2000/web_projects/konecta/files/class.php:37
+Stack trace:
+#0 /home/webimsol/public_html/codigo2000.com/demos2000/web_projects/konecta/files/class.php(37): PDO->__construct('mysql:host=loca...', 'webimsol_rch', 'Ronald104742463...')
+#1 /home/webimsol/public_html/codigo2000.com/demos2000/web_projects/konecta/files/class_productos.php(74): Conectar->get_conexion()
+#2 /home/webimsol/public_html/codigo2000.com/demos2000/web_projects/konecta/phpAjax/vender.ajax.vw.php(8): PRODUCTOS->getProductosFiltro('1')
+#3 {main}
+  thrown in /home/webimsol/public_html/codigo2000.com/demos2000/web_projects/konecta/files/class.php on line 37
+[23-Nov-2021 15:07:55 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'webimsol_rch'@'localhost' to database 'webimsol_konecta' in /home/webimsol/public_html/codigo2000.com/demos2000/web_projects/konecta/files/class.php:37
+Stack trace:
+#0 /home/webimsol/public_html/codigo2000.com/demos2000/web_projects/konecta/files/class.php(37): PDO->__construct('mysql:host=loca...', 'webimsol_rch', 'Ronald104742463...')
+#1 /home/webimsol/public_html/codigo2000.com/demos2000/web_projects/konecta/files/class_productos.php(74): Conectar->get_conexion()
+#2 /home/webimsol/public_html/codigo2000.com/demos2000/web_projects/konecta/phpAjax/vender.ajax.vw.php(8): PRODUCTOS->getProductosFiltro('12')
+#3 {main}
+  thrown in /home/webimsol/public_html/codigo2000.com/demos2000/web_projects/konecta/files/class.php on line 37
+[23-Nov-2021 15:07:56 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'webimsol_rch'@'localhost' to database 'webimsol_konecta' in /home/webimsol/public_html/codigo2000.com/demos2000/web_projects/konecta/files/class.php:37
+Stack trace:
+#0 /home/webimsol/public_html/codigo2000.com/demos2000/web_projects/konecta/files/class.php(37): PDO->__construct('mysql:host=loca...', 'webimsol_rch', 'Ronald104742463...')
+#1 /home/webimsol/public_html/codigo2000.com/demos2000/web_projects/konecta/files/class_productos.php(74): Conectar->get_conexion()
+#2 /home/webimsol/public_html/codigo2000.com/demos2000/web_projects/konecta/phpAjax/vender.ajax.vw.php(8): PRODUCTOS->getProductosFiltro('1')
+#3 {main}
+  thrown in /home/webimsol/public_html/codigo2000.com/demos2000/web_projects/konecta/files/class.php on line 37
+[23-Nov-2021 15:07:56 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'webimsol_rch'@'localhost' to database 'webimsol_konecta' in /home/webimsol/public_html/codigo2000.com/demos2000/web_projects/konecta/files/class.php:37
+Stack trace:
+#0 /home/webimsol/public_html/codigo2000.com/demos2000/web_projects/konecta/files/class.php(37): PDO->__construct('mysql:host=loca...', 'webimsol_rch', 'Ronald104742463...')
+#1 /home/webimsol/public_html/codigo2000.com/demos2000/web_projects/konecta/files/class_productos.php(57): Conectar->get_conexion()
+#2 /home/webimsol/public_html/codigo2000.com/demos2000/web_projects/konecta/phpAjax/vender.ajax.vw.php(10): PRODUCTOS->getProductos()
+#3 {main}
+  thrown in /home/webimsol/public_html/codigo2000.com/demos2000/web_projects/konecta/files/class.php on line 37
+[23-Nov-2021 15:07:56 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'webimsol_rch'@'localhost' to database 'webimsol_konecta' in /home/webimsol/public_html/codigo2000.com/demos2000/web_projects/konecta/files/class.php:37
+Stack trace:
+#0 /home/webimsol/public_html/codigo2000.com/demos2000/web_projects/konecta/files/class.php(37): PDO->__construct('mysql:host=loca...', 'webimsol_rch', 'Ronald104742463...')
+#1 /home/webimsol/public_html/codigo2000.com/demos2000/web_projects/konecta/files/class_productos.php(74): Conectar->get_conexion()
+#2 /home/webimsol/public_html/codigo2000.com/demos2000/web_projects/konecta/phpAjax/vender.ajax.vw.php(8): PRODUCTOS->getProductosFiltro('d')
+#3 {main}
+  thrown in /home/webimsol/public_html/codigo2000.com/demos2000/web_projects/konecta/files/class.php on line 37
+[23-Nov-2021 15:07:57 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'webimsol_rch'@'localhost' to database 'webimsol_konecta' in /home/webimsol/public_html/codigo2000.com/demos2000/web_projects/konecta/files/class.php:37
+Stack trace:
+#0 /home/webimsol/public_html/codigo2000.com/demos2000/web_projects/konecta/files/class.php(37): PDO->__construct('mysql:host=loca...', 'webimsol_rch', 'Ronald104742463...')
+#1 /home/webimsol/public_html/codigo2000.com/demos2000/web_projects/konecta/files/class_productos.php(57): Conectar->get_conexion()
+#2 /home/webimsol/public_html/codigo2000.com/demos2000/web_projects/konecta/phpAjax/vender.ajax.vw.php(10): PRODUCTOS->getProductos()
+#3 {main}
+  thrown in /home/webimsol/public_html/codigo2000.com/demos2000/web_projects/konecta/files/class.php on line 37
+[23-Nov-2021 15:07:57 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'webimsol_rch'@'localhost' to database 'webimsol_konecta' in /home/webimsol/public_html/codigo2000.com/demos2000/web_projects/konecta/files/class.php:37
+Stack trace:
+#0 /home/webimsol/public_html/codigo2000.com/demos2000/web_projects/konecta/files/class.php(37): PDO->__construct('mysql:host=loca...', 'webimsol_rch', 'Ronald104742463...')
+#1 /home/webimsol/public_html/codigo2000.com/demos2000/web_projects/konecta/files/class_productos.php(74): Conectar->get_conexion()
+#2 /home/webimsol/public_html/codigo2000.com/demos2000/web_projects/konecta/phpAjax/vender.ajax.vw.php(8): PRODUCTOS->getProductosFiltro('as')
+#3 {main}
+  thrown in /home/webimsol/public_html/codigo2000.com/demos2000/web_projects/konecta/files/class.php on line 37
+[23-Nov-2021 15:07:57 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'webimsol_rch'@'localhost' to database 'webimsol_konecta' in /home/webimsol/public_html/codigo2000.com/demos2000/web_projects/konecta/files/class.php:37
+Stack trace:
+#0 /home/webimsol/public_html/codigo2000.com/demos2000/web_projects/konecta/files/class.php(37): PDO->__construct('mysql:host=loca...', 'webimsol_rch', 'Ronald104742463...')
+#1 /home/webimsol/public_html/codigo2000.com/demos2000/web_projects/konecta/files/class_productos.php(74): Conectar->get_conexion()
+#2 /home/webimsol/public_html/codigo2000.com/demos2000/web_projects/konecta/phpAjax/vender.ajax.vw.php(8): PRODUCTOS->getProductosFiltro('as')
+#3 {main}
+  thrown in /home/webimsol/public_html/codigo2000.com/demos2000/web_projects/konecta/files/class.php on line 37
+[23-Nov-2021 15:07:57 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'webimsol_rch'@'localhost' to database 'webimsol_konecta' in /home/webimsol/public_html/codigo2000.com/demos2000/web_projects/konecta/files/class.php:37
+Stack trace:
+#0 /home/webimsol/public_html/codigo2000.com/demos2000/web_projects/konecta/files/class.php(37): PDO->__construct('mysql:host=loca...', 'webimsol_rch', 'Ronald104742463...')
+#1 /home/webimsol/public_html/codigo2000.com/demos2000/web_projects/konecta/files/class_productos.php(74): Conectar->get_conexion()
+#2 /home/webimsol/public_html/codigo2000.com/demos2000/web_projects/konecta/phpAjax/vender.ajax.vw.php(8): PRODUCTOS->getProductosFiltro('asd')
+#3 {main}
+  thrown in /home/webimsol/public_html/codigo2000.com/demos2000/web_projects/konecta/files/class.php on line 37
+[23-Nov-2021 15:07:58 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'webimsol_rch'@'localhost' to database 'webimsol_konecta' in /home/webimsol/public_html/codigo2000.com/demos2000/web_projects/konecta/files/class.php:37
+Stack trace:
+#0 /home/webimsol/public_html/codigo2000.com/demos2000/web_projects/konecta/files/class.php(37): PDO->__construct('mysql:host=loca...', 'webimsol_rch', 'Ronald104742463...')
+#1 /home/webimsol/public_html/codigo2000.com/demos2000/web_projects/konecta/files/class_productos.php(74): Conectar->get_conexion()
+#2 /home/webimsol/public_html/codigo2000.com/demos2000/web_projects/konecta/phpAjax/vender.ajax.vw.php(8): PRODUCTOS->getProductosFiltro('as')
+#3 {main}
+  thrown in /home/webimsol/public_html/codigo2000.com/demos2000/web_projects/konecta/files/class.php on line 37
+[23-Nov-2021 15:07:58 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'webimsol_rch'@'localhost' to database 'webimsol_konecta' in /home/webimsol/public_html/codigo2000.com/demos2000/web_projects/konecta/files/class.php:37
+Stack trace:
+#0 /home/webimsol/public_html/codigo2000.com/demos2000/web_projects/konecta/files/class.php(37): PDO->__construct('mysql:host=loca...', 'webimsol_rch', 'Ronald104742463...')
+#1 /home/webimsol/public_html/codigo2000.com/demos2000/web_projects/konecta/files/class_productos.php(74): Conectar->get_conexion()
+#2 /home/webimsol/public_html/codigo2000.com/demos2000/web_projects/konecta/phpAjax/vender.ajax.vw.php(8): PRODUCTOS->getProductosFiltro('a')
+#3 {main}
+  thrown in /home/webimsol/public_html/codigo2000.com/demos2000/web_projects/konecta/files/class.php on line 37
+[23-Nov-2021 15:07:58 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'webimsol_rch'@'localhost' to database 'webimsol_konecta' in /home/webimsol/public_html/codigo2000.com/demos2000/web_projects/konecta/files/class.php:37
+Stack trace:
+#0 /home/webimsol/public_html/codigo2000.com/demos2000/web_projects/konecta/files/class.php(37): PDO->__construct('mysql:host=loca...', 'webimsol_rch', 'Ronald104742463...')
+#1 /home/webimsol/public_html/codigo2000.com/demos2000/web_projects/konecta/files/class_productos.php(57): Conectar->get_conexion()
+#2 /home/webimsol/public_html/codigo2000.com/demos2000/web_projects/konecta/phpAjax/vender.ajax.vw.php(10): PRODUCTOS->getProductos()
+#3 {main}
+  thrown in /home/webimsol/public_html/codigo2000.com/demos2000/web_projects/konecta/files/class.php on line 37
+[23-Nov-2021 15:07:58 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'webimsol_rch'@'localhost' to database 'webimsol_konecta' in /home/webimsol/public_html/codigo2000.com/demos2000/web_projects/konecta/files/class.php:37
+Stack trace:
+#0 /home/webimsol/public_html/codigo2000.com/demos2000/web_projects/konecta/files/class.php(37): PDO->__construct('mysql:host=loca...', 'webimsol_rch', 'Ronald104742463...')
+#1 /home/webimsol/public_html/codigo2000.com/demos2000/web_projects/konecta/files/class_productos.php(57): Conectar->get_conexion()
+#2 /home/webimsol/public_html/codigo2000.com/demos2000/web_projects/konecta/phpAjax/vender.ajax.vw.php(10): PRODUCTOS->getProductos()
+#3 {main}
+  thrown in /home/webimsol/public_html/codigo2000.com/demos2000/web_projects/konecta/files/class.php on line 37
